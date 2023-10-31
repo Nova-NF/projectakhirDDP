@@ -10,6 +10,7 @@ NIM : 23009116043
 
 ## Penjelasan
 ### Flow-chart
+![ddp pa](https://github.com/KhalilPradiptaLee/projectakhirDDP/assets/144618201/17591f36-7bdb-4f66-a2d0-ace356016982)
 
 
 ## Screenshot Input dan Output
@@ -545,6 +546,10 @@ Selamat datang di Aplikasi Tiket Pesawat
 Silahkan pilih diantara opsi berikut (1/2/3):
 ```
 
+
+)
+
+
 # Kita mencoba input 3 dan program akan berakhir
 ```
 ========================================
@@ -560,3 +565,5 @@ Selamat datang di Aplikasi Tiket Pesawat
 Silahkan pilih diantara opsi berikut (1/2/3): 3
 Terima kasih telah menggunakan Aplikasi Tiket Pesawat. Selamat tinggal!
 ```
+
+
